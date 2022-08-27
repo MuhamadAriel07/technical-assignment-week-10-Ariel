@@ -157,3 +157,4 @@ if _name_ == '_main_':
     except KeyboardInterrupt:
         print("\nMati")
         GPIO.cleanup()
+        
